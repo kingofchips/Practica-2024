@@ -1,4 +1,8 @@
-﻿using Microsoft.Win32;
+// Nicu Bogdan Mihai
+// CEN 3.2A
+// Practical Project 2024
+
+using Microsoft.Win32;
 using System;
 using System.Drawing;
 using System.Drawing.Imaging;
